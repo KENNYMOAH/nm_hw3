@@ -106,3 +106,5 @@ elif (method == 2):
     print (")\n= " + str(output))
 
 print ("Real value of the answer should be " + str(integrate(ip, (x, bound[0], bound[1]))))
+
+\\ Sample text
